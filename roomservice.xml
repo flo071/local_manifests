@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+<!--OnePlus2-->
+  <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_oneplus_msm8994" path="kernel/oneplus/msm8994" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_oneplus_oneplus2" path="device/oneplus/oneplus2" remote="github" revision="cm-13.0" />
+<!--Galaxy S4 Mini-->
+  <project name="CyanogenMod/android_device_samsung_serranoltexx" path="device/samsung/serranoltexx" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_samsung_serrano-common" path="device/samsung/serrano-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_samsung_msm8930-common" path="device/samsung/msm8930-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_samsung_msm8960-common" path="kernel/samsung/msm8960-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_kernel_samsung_msm8930-common" path="kernel/samsung/msm8930-common" remote="github" revision="cm-13.0" />
+  <project name="CyanogenMod/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="github" revision="cm-13.0" />
+  <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="cm-13.0" />
+</manifest>

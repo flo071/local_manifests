@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--Please do not manually edit this file-->
 <manifest>
+<project path="packages/apps/SlimOTA" name="SlimSaber/packages_apps_SlimOTA" remote="github" revision="mm6.0" />
 <!--OnePlus-->
   <project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-13.0" />
   <project name="CyanogenMod/android_device_oppo_common" path="device/oppo/common" remote="github" revision="cm-13.0" />

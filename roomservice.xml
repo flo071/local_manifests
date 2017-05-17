@@ -26,4 +26,8 @@
  		<project name="flo071/android_device_lenovo_aio_otfp" path="device/lenovo/aio_otfp" remote="github" revision="master" />
 		<project name="flo071/android_kernel_lenovo_aio_otfp" path="kernel/lenovo/aio_otfp" remote="github" revision="master" />
 		<project name="flo071/android_hardware_lenovo_aio_otfp" path="hardware/lenovo/aio_otfp" remote="github" revision="master" />
+    <!--LG_g6-->
+    <project name="flo071/android_device_lge_h872" path="device/lge/h872" remote="github" revision="cm-14.1" />
+    <project name="flo071/android_kernel_lge_msm8996" path="kernel/lge/msm8996" remote="github" revision="cm-14.1" />
+    <project name="flo071/android_device_lge_g6-common" path="device/lge/g6-common" remote="github" revision="cm-14.1" />
 </manifest>

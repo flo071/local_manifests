@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!--Vendor-->
+	<project name="flo071/android_vendor_oppo_r11" path="vendor/oppo/r11" remote="github" revision="cm-14.1" /> 
+	<!--Device-->
+	<project name="flo071/android_device_oppo_r11" path="device/oppo/r11" remote="github" revision="lineage-15.1" />
+</manifest>
